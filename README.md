@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello! 👋
 
 <!--
 **nvitiver/nvitiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/5613830/nathan-vitiver)](https://pt.stackoverflow.com/users/5613830/nathan-vitiver)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514996063311&text=Olá!)](https://api.whatsapp.com/send?phone=5514996063311&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathan.vitiver@gmail.com)](mailto:nathan.vitiver@gmail.com)
-
-## Hello! 👋
 
 
 I am a programmer who does field research to find out exactly what the clients need and design accordingly.

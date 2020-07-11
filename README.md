@@ -50,5 +50,5 @@ Degree in Social Communication (USC) Class of 2016.
 Scientific Project - Theme: Child Consumer Behavior and the five human senses.
 
 
-- :office_worker: Trabalhando como Back-end Desenvolvedor na **Arca Solutions**
-- :books: Estudando sobre Symfony, Elastic, PHP e SOLID.
+- :office_worker: Back-end Desenvolvedor at **Arca Solutions**
+- :books: Studying about Symfony, Elastic, PHP and SOLID.

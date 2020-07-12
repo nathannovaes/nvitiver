@@ -29,6 +29,7 @@ I am a programmer who does field research to find out exactly what the clients n
 
 I have more than 4 years of experience in web development with fast learning. My objective is to understand my customers to deliver a great job for them. Also, my focus is to search for the best way to solve a problem. 
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 I have strong skills and expertise with the technologies: 
 - Languages: PHP, Python, JavaScript, Python (Automation with Selenium)

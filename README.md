@@ -24,12 +24,11 @@ Here are some ideas to get you started:
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514996063311&text=Olá!)](https://api.whatsapp.com/send?phone=5514996063311&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathan.vitiver@gmail.com)](mailto:nathan.vitiver@gmail.com)
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 I am a programmer who does field research to find out exactly what the clients need and design accordingly.
 
 I have more than 4 years of experience in web development with fast learning. My objective is to understand my customers to deliver a great job for them. Also, my focus is to search for the best way to solve a problem. 
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 I have strong skills and expertise with the technologies: 
 - Languages: PHP, Python, JavaScript, Python (Automation with Selenium)

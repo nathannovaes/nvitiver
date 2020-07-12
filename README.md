@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathan.vitiver@gmail.com)](mailto:nathan.vitiver@gmail.com)
 
 <img align='right' src='nathanvitiver-gif.gif' width='200"'>
+(nathanvitiver-gif.gif)
 
 I am a programmer who does field research to find out exactly what the clients need and design accordingly.
 

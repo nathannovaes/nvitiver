@@ -51,3 +51,7 @@ Scientific Project - Theme: Child Consumer Behavior and the five human senses.
 
 - :office_worker: Back-end Developer at **Arca Solutions**
 - :books: Studying about Symfony, Elastic, PHP and SOLID.
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=nvitiver&hide=["issues"]&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nvitiver.nvitiver)

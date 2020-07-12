@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514996063311&text=Olá!)](https://api.whatsapp.com/send?phone=5514996063311&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathan.vitiver@gmail.com)](mailto:nathan.vitiver@gmail.com)
 
-<p align='right'  width='200"'>
-![Nathan Vitiver GIF](nathanvitiver-gif.gif)
-</p>
+<img align='right' src=nathanvitiver-gif.gif width='200"'>
+
 
 I am a programmer who does field research to find out exactly what the clients need and design accordingly.
 

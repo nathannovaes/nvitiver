@@ -36,7 +36,7 @@ I have strong skills and expertise with the technologies:
 - Frameworks: Symfony, Flask
 - Databases: MYSQL, MariaDB
 - DevOps: Docker
-
+- Markup Languages: XML, JSON
 
 Studying:
 Postgraduate in Controlling and Finance (SENAC). Ending: June / 2020

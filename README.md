@@ -49,8 +49,8 @@ Degree in Social Communication (USC) Class of 2016.
 Scientific Project - Theme: Child Consumer Behavior and the five human senses.
 
 
-- :office_worker: Back-end Developer at **Arca Solutions**
-- :books: Studying about Symfony, Elastic, PHP and SOLID.
+- :office_worker: Back-end Developer at **Tray Locaweb**
+- :books: Studying about Laravel, ReactJS, PHP and Clean Code.
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=nvitiver&hide=["issues"]&show_icons=true)
 

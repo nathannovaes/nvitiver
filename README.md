@@ -31,18 +31,23 @@ I am a programmer who does field research to find out exactly what the clients n
 
 I have more than 4 years of experience in web development with fast learning. My objective is to understand my customers to deliver a great job for them. Also, my focus is to search for the best way to solve a problem. 
 
-I have strong skills and expertise with the technologies: 
-- Languages: PHP, Python, JavaScript, Python (Automation with Selenium)
-- Test: PHPUnit
-- Frameworks: Symfony, Flask
-- Databases: MYSQL, MariaDB
-- DevOps: Docker
-- Markup Languages: XML, JSON
 
-Studying:
-Postgraduate in Controlling and Finance (SENAC). Ending: June / 2020
+I have strong skills and expertise with the technologies: 
+— Languages: PHP, Python, JavaScript, Python (Automation with Selenium)
+— Test: PHPUnit
+— Frameworks: Laravel, Symfony, Flask
+— Logs: Graylog 
+— Databases: MySQL, MariaDB, Postgre
+— DevOps: Docker
+— Markup Languages: XML, JSON
+
+
+Github: 
+https://github.com/nvitiver
 
 Completed:
+Postgraduate in Controlling and Finance (SENAC). Class June of 2020.
+
 Degree in Computer Science (USC). Class June of 2020.
 Scientific Project - Theme: Application of data mining to support the discovery of knowledge about basic sanitation in the main Brazilian cities.
 

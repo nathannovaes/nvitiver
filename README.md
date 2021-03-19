@@ -60,4 +60,3 @@ Scientific Project - Theme: Child Consumer Behavior and the five human senses.
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=nvitiver&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nvitiver.nvitiver)

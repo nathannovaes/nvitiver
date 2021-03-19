@@ -43,7 +43,7 @@ I have strong skills and expertise with the technologies:
 
 
 Github: 
-https://github.com/nvitiver
+https://github.com/nathannovaes
 
 Completed:
 Postgraduate in Controlling and Finance (SENAC). Class June of 2020.

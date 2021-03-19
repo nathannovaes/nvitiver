@@ -33,13 +33,13 @@ I have more than 4 years of experience in web development with fast learning. My
 
 
 I have strong skills and expertise with the technologies: 
-— Languages: PHP, Python, JavaScript, Python (Automation with Selenium)
-— Test: PHPUnit
-— Frameworks: Laravel, Symfony, Flask
-— Logs: Graylog 
-— Databases: MySQL, MariaDB, Postgre
-— DevOps: Docker
-— Markup Languages: XML, JSON
+- Languages: PHP, Python, JavaScript, Python (Automation with Selenium)
+- Test: PHPUnit
+- Frameworks: Laravel, Symfony, Flask
+- Logs: Graylog 
+- Databases: MySQL, MariaDB, Postgre
+- DevOps: Docker
+- Markup Languages: XML, JSON
 
 
 Github: 

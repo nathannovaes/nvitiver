@@ -34,6 +34,7 @@ I have more than 4 years of experience in web development with fast learning. My
 
 I have strong skills and expertise with the technologies: 
 - Languages: PHP, Python, JavaScript, Python (Automation with Selenium)
+- Analysis Tools: PHPStan
 - Test: PHPUnit
 - Frameworks: Laravel, Symfony, Flask
 - Logs: Graylog 

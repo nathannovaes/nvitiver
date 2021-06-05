@@ -43,10 +43,8 @@ I have strong skills and expertise with the technologies:
 - Markup Languages: XML, JSON
 
 
-Github: 
-https://github.com/nathannovaes
-
 Completed:
+
 Postgraduate in Controlling and Finance (SENAC). Class June of 2020.
 
 Degree in Computer Science (USC). Class June of 2020.

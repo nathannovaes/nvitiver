@@ -36,7 +36,7 @@ I have strong skills and expertise with the technologies:
 - Languages: PHP, Python, JavaScript (TypeScript), Python (Automation with Selenium)
 - Analysis Tools: PHPStan
 - Test: PHPUnit
-- Frameworks: Laravel, Symfony, Flask
+- Frameworks: Laravel, Symfony, Flask and VueJs.
 - Logs: Graylog 
 - Databases: MySQL, MariaDB, Postgre
 - DevOps: Docker
@@ -55,7 +55,7 @@ Scientific Project - Theme: Child Consumer Behavior and the five human senses.
 
 
 - :office_worker: Back-end Developer at **Tray Locaweb**
-- :books: Studying about Laravel, PHP and Clean Code.
+- :books: Studying about TypeScript, PHP and Software Architecture.
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=nvitiver&hide=["issues"]&show_icons=true)
 

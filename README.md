@@ -57,5 +57,6 @@ Scientific Project - Theme: Child Consumer Behavior and the five human senses.
 - :office_worker: Back-end Developer at **Tray Locaweb**
 - :books: Studying about TypeScript, PHP and Software Architecture.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathannovaes&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathannovaes&layout=compact)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nathannovaes)
 

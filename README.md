@@ -58,5 +58,5 @@ Scientific Project - Theme: Child Consumer Behavior and the five human senses.
 - :books: Studying about TypeScript, PHP and Software Architecture.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathannovaes&layout=compact)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?email=nathan.vitiver@gmail.com)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nathannovaes)
 

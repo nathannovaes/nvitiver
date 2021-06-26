@@ -33,6 +33,7 @@ I have more than 4 years of experience in web development with fast learning. My
 
 
 I have strong skills and expertise with the technologies: 
+- Development Concepts: SOLID, KISS, YAGNI, DRY.
 - Languages: PHP, Python, JavaScript (TypeScript), Python (Automation with Selenium)
 - Analysis Tools: PHPStan
 - Test: PHPUnit

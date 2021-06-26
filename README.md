@@ -33,11 +33,11 @@ I have more than 4 years of experience in web development with fast learning. My
 
 
 I have strong skills and expertise with the technologies: 
-- Development Concepts: SOLID, KISS, YAGNI, DRY.
-- Languages: PHP, Python, JavaScript (TypeScript), Python (Automation with Selenium)
+- Development Concepts: SOLID, KISS, YAGNI and DRY.
+- Languages: PHP and JavaScript (TypeScript).
 - Analysis Tools: PHPStan
 - Test: PHPUnit
-- Frameworks: Laravel, Symfony, Flask and VueJs.
+- Frameworks: Laravel and VueJs.
 - Logs: Graylog 
 - Databases: MySQL, MariaDB, Postgre
 - DevOps: Docker
